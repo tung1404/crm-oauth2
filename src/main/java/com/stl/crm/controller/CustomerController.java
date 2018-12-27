@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.stl.crm.domain.Customer;
 import com.stl.crm.security.CrmUserDetails;
-import com.stl.crm.security.CustomUserDetails;
 import com.stl.crm.service.CustomerService;
 
 @RestController
